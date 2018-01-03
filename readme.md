@@ -22,12 +22,12 @@ The clients are then processed starting from the front and the completion time f
 |SA|7
 |TR|4
 
-## How to run main.c  
+## Running the main program  
 
 1. make main
 2. ./bin/main
 
-## How to run testMain.c  
+## Running tests for Priority Queue ADT  
 
 1. make testing
 2. ./bin/testing
