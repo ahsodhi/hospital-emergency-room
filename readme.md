@@ -1,13 +1,13 @@
 ## Program Description  
 
 A simulation of a Hospital Emergency Room using a Priority Queue ADT.  
-Patients at the hospital are placed in a queue based on their arrival times. 
+Patients at the hospital are placed in a queue based on their medical severity. 
 The clients are then processed starting from the front and the completion time for each client is printed in the final output.  
 
 ## Input Format
 
-[patient-id] [arrival-time] [symptom-code]  
-[patient-id] [arrival-time] [symptom-code]  
+[patient-id] [priority] [symptom-code]  
+[patient-id] [priority] [symptom-code]  
 ....  
 
 ## Processing time for different symtom codes
